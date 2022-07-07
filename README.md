@@ -5,7 +5,9 @@ The Grokking course :
 https://www.educative.io/courses/grokking-the-coding-interview
 
 
-# List of Problems (Curated from https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4 )
+# List of Problems 
+
+(Curated from https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4 )
 
 ## Pattern: Sliding Window
 
